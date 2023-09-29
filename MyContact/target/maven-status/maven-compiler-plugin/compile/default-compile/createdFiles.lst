@@ -1,0 +1,5 @@
+dao\DbContext.class
+dao\UserDAO.class
+dto\User.class
+dao\ContactDAO.class
+dto\Contact.class
